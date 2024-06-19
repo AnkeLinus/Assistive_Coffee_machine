@@ -3,8 +3,8 @@
 
 #define ledPin 2
 
-const char* ssid = "NBW062-00 6577";
-const char* password = "?Q70003u";
+const char* ssid = "Host_Name";
+const char* password = "abcdefg";
 const char* mqtt_server = "192.168.137.1";
 const char* espclientID = "ESP01"; 
 
