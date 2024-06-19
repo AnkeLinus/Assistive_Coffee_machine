@@ -4,7 +4,7 @@
 #define ledPin 2
 
 const char* ssid = "Host_PC"; // Fill in your Host_PC name shown in the Hotspot.
-const char* password = "abcdefg"; // Fill in your Host_PC name shown in the Hotspot.
+const char* password = "abcdefg"; // Fill in your Host_PC password shown in the Hotspot.
 const char* mqtt_server = "192.168.137.1";
 const char* espclientID = "ESP03"; 
 
